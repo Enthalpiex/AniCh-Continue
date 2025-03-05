@@ -1,18 +1,18 @@
-<h1 align="center">像宿</h1>
+<h1 align="center">AniCh</h1>
 
 <p align="center">一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告，还有海量精选热门COSPLAY、插画。追番看番看图必备软件。</p>
 
 <div align="center">
 
-[![GitHub release](https://img.shields.io/github/v/release/Sle2p/xs.cx)](https://github.com/Sle2p/xs.cx/releases/latest)
-[![Stars](https://img.shields.io/github/stars/Sle2p/xs.cx)](https://github.com/Sle2p/xs.cx/stargazers)
-[![GitHub all releases](https://img.shields.io/github/downloads/Sle2p/xs.cx/total)](https://github.com/Sle2p/xs.cx/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/Sle2p/AniCh)](https://github.com/Sle2p/AniCh/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Sle2p/AniCh)](https://github.com/Sle2p/AniCh/stargazers)
+[![GitHub all releases](https://img.shields.io/github/downloads/Sle2p/AniCh/total)](https://github.com/Sle2p/AniCh/releases/latest)
 
 </div>
 
 ## 下载
 
-点击前往 [发布页](https://github.com/Sle2p/xs.cx/releases/latest) 下载
+点击前往 [发布页](https://github.com/Sle2p/AniCh/releases/latest) 下载
 
 ## 预览
 开发中。实际样式请以最新版本为准。
@@ -43,6 +43,6 @@
 ## 说明
 
 > [!IMPORTANT]
-> 源码对应版本 [1.0.0](https://github.com/Sle2p/xs.cx/releases/tag/1.0.0)
+> 源码对应版本 [1.0.0](https://github.com/Sle2p/AniCh/releases/tag/1.0.0)
 >
 > 日期：2024-08-25
