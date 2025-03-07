@@ -8,8 +8,8 @@ late PackageInfo packageInfo;
 class AppConfig {
   static RxString version = ''.obs;
   static RxString ua = ''.obs;
-  static const baseUrl = 'https://api.xs.cx';
-  static const bilibiliApiProxyUrl = 'https://bili-dm.v1.xs.cx';
+  static const baseUrl = 'https://api.emmmm.eu.org';
+  static const bilibiliApiProxyUrl = 'https://bili-dm.emmmm.eu.org';
   static const qqVideoApiUrl = 'https://dm.video.qq.com';
 
   static init() async {
