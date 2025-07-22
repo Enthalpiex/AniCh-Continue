@@ -1,4 +1,4 @@
-<h1 align="center">AniCh</h1>
+<h1 align="center">AniCh-Continue (Unofficial)</h1>
 
 <p align="center">一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。</p>
 
